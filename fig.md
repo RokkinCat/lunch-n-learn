@@ -1,8 +1,8 @@
 # RokkinCat Lunch & Learn: Docker + Fig
 
-**Docker** - A tool for creating app-level containers to make distributed systems a bit easier
+**[Docker](http://www.docker.com)** - A tool for creating app-level containers to make distributed systems a bit easier
 
-**Fig** - A YML-based tool for defining the way docker instances are started
+**[Fig](http://www.fig.sh)** - A YML-based tool for defining the way docker instances are started
 
 ## Docker on OSX
  * Uses boot2docker, an app that uses virtualbox and a virtual machine to emulate standard docker functionality on OSX
